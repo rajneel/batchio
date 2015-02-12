@@ -1,5 +1,6 @@
 # Goals 
-* Batchio: Batch framework for the rest of us *
+
+Batchio: Batch framework for the rest of us
 
 What it does:
 -------------
@@ -14,3 +15,9 @@ What it does:
 What it is not for:
 -------------------
 1. Distributed job map-reduce type system. Jobs are intended to run on a single box 
+
+
+Nice to Haves:
+--------------
+1. LDAP integration
+
