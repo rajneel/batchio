@@ -11,6 +11,7 @@ What it does:
 5. Provides a notification system for job success and failure
 6. Provides an api for programmatic callbacks on job successe, interuptions and failures
 7. First class data store 
+8. Supports calendar logic overrides such that scheduler will override previous cron entries
 
 What it is not for:
 -------------------
