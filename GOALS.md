@@ -12,6 +12,7 @@ What it does:
 6. Provides an api for programmatic callbacks on job successe, interuptions and failures
 7. First class data store 
 8. Supports calendar logic overrides such that scheduler will override previous cron entries
+9. Support archiving of artifacts such as files on file system via SFTP 
 
 What it is not for:
 -------------------
@@ -21,4 +22,5 @@ What it is not for:
 Nice to Haves:
 --------------
 1. LDAP integration
+2. Dropbox integration
 
