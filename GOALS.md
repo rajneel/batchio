@@ -9,7 +9,7 @@ What it does:
 3. Provides a import, export of batch configuration for multi-environment maintainbility
 4. Provides a simple interface for installation and maintainance
 5. Provides a notification system for job success and failure
-6. Provides an api for programmatic callbacks on job success, interuptions and failures
+6. Provides an api for programmatic callbacks on job success, interruptions and failures
 7. First class data store 
 8. Supports calendar logic overrides such that scheduler will override previous cron entries
 9. Support archiving of artifacts such as files on file system via SFTP 
