@@ -1,0 +1,9 @@
+jobs:
+  job1:
+    command: "/opt/batchio/test.sh"
+    env_vars:
+      BLAH: "helloword"
+    trigger:
+      type: "interval"
+      args:
+        seconds: 30
